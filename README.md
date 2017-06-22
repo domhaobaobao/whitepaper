@@ -1,5 +1,10 @@
 # whitepaper
 Æternity blockchain whitepaper (Latex)
 
-TODO add compile instructions
-Bounty: 100 AE'
+To build on ubuntu:
+
+```
+sudo apt install texlive-full
+
+pdflatex main.tex
+```
